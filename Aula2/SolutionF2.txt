@@ -1,0 +1,7 @@
+1 - (n/2 +1 )* n = n^2/2 +n = O(n^2)
+2- A ordem é n pois (j<n) é executado 4n vezes porque vemos sempre o pior caso e o n pode ser impar 
+3- 
+4- 
+5- Instrução dominante: kk<n
+    total =
+    ((n+2)/2)*(n-1)= O(n^2)
